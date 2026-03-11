@@ -7,5 +7,6 @@
   <img src="https://i.pinimg.com/originals/0c/37/b3/0c37b3c04b79d60615c13131720584d2.gif" width="19%" />
 </p>
 <p align="left">
-  <img src="https://i.pinimg.com/736x/7a/cf/f2/7acff2275a3122fd3eaa147188076527.jpg" width="19%" />
+  <img src="https://i.pinimg.com/736x/7a/cf/f2/7acff2275a3122fd3eaa147188076527.jpg" width="19%" /> 
+  пр <br>
   </p>
