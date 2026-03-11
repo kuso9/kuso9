@@ -6,9 +6,6 @@
   <img src="https://media1.tenor.com/m/nFbF25yPy3QAAAAd/mydei-epic.gif" width="19%" />
 </p>
 <p align="left">
-  <img src="" width="19%" />
-</p>
-<p align="left">
   <img src="https://i.pinimg.com/736x/7a/cf/f2/7acff2275a3122fd3eaa147188076527.jpg" width="19%" /> 
   пр <br>
 </p>
