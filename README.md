@@ -3,9 +3,6 @@
   <img src="https://media1.tenor.com/m/OHyYU4NesCgAAAAC/ellie-loves-mydei-elysia-loves-mydei.gif" width="19%" />
   <img src="https://media1.tenor.com/m/Eoj7A7QfksgAAAAd/elysia-loves-mydei-ellie-loves-mydei.gif" width="19%" />
   <img src="https://media1.tenor.com/m/MGGeFHNZpcIAAAAd/mydei-mydei-hsr.gif" width="19%" />
-  <img src="https://media1.tenor.com/m/j5XqX_5pL78AAAAd/mydei-mydei-hsr.gif" width="19%" />
-</p>
-<p align="left">
   <img src="https://media1.tenor.com/m/nFbF25yPy3QAAAAd/mydei-epic.gif" width="19%" />
 </p>
 <p align="left">
