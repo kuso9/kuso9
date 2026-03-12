@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://media.tenor.com/eGCjV7lEokoAAAAm/black-bow.webp" width="4.5%" />
   <img src="https://i.pinimg.com/736x/92/5e/e6/925ee65551102553a4130affe304df50.jpg" width="7.8%" />
   <img src="https://media.tenor.com/eGCjV7lEokoAAAAm/black-bow.webp" width="4.5%" />
@@ -15,7 +15,7 @@
   <img src="https://i.pinimg.com/736x/92/5e/e6/925ee65551102553a4130affe304df50.jpg" width="7.8%" />
   <img src="https://media.tenor.com/eGCjV7lEokoAAAAm/black-bow.webp" width="4.5%" />
   </p>
-<p align="left">
+<p align="center">
   <img src="https://media1.tenor.com/m/xXDlNSrrVysAAAAd/mydei-mydei-hsr.gif" width="19%" />
   <img src="https://media1.tenor.com/m/OHyYU4NesCgAAAAC/ellie-loves-mydei-elysia-loves-mydei.gif" width="19%" />
   <img src="https://media1.tenor.com/m/MGGeFHNZpcIAAAAd/mydei-mydei-hsr.gif" width="19%" />
