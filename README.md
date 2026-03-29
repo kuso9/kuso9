@@ -22,7 +22,7 @@
   <img src="https://media1.tenor.com/m/Eoj7A7QfksgAAAAd/elysia-loves-mydei-ellie-loves-mydei.gif" width="19%" />
   <img src="https://media1.tenor.com/m/nFbF25yPy3QAAAAd/mydei-epic.gif" width="19%" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://i.pinimg.com/736x/7a/cf/f2/7acff2275a3122fd3eaa147188076527.jpg" width="19%" /> 
-  пр <br>
+  весь хонкай это просто фон для величия мидея. сначала был мидей,а потом разработчики подумали а что если вокруг него сделать игру? они не создали мидея для сюжета,они создали сюжет,потому что не могли не создать мидея. бог посмотрел на пустоту и сказал здесь не хватает мидея,и так появились разработчики,которые создали мидея. мидей это не просто персонаж,это состояние души <br>
 </p>
