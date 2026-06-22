@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/b67262cfb7d58f16f63c973ec0c4ece5/4b25497036850d80-ec/s100x200/b831db179f2252230945a64f01d2713b1a0157cd.pnj" width="45%" />
+  <img src="https://media.tenor.com/eGCjV7lEokoAAAAm/black-bow.webp" width="4.5%" />
   <img src="https://i.pinimg.com/736x/92/5e/e6/925ee65551102553a4130affe304df50.jpg" width="7.8%" />
   <img src="https://media.tenor.com/eGCjV7lEokoAAAAm/black-bow.webp" width="4.5%" />
   <img src="https://i.pinimg.com/736x/76/53/50/76535078ae2696dcf2026c7e257eb678.jpg" width="7.8%" />
